@@ -22,7 +22,7 @@ https://github.com/jwasham/coding-interview-university/blob/main/translations/RE
     Коллизии
     Деревья поиска
     АВЛ деревья
-    Big O
+    Big O, Theta, Omega
     Коды Хаффмана
     Двоичный поиск
     Умножение числе
@@ -33,7 +33,6 @@ https://github.com/jwasham/coding-interview-university/blob/main/translations/RE
        https://stepik.org/course/1547
        https://stepik.org/course/217
     Книги:
-        Лайт - Грокаем Алгоритмы Бхаргава
         База - Алгоритмы Скиена
 Задачи Leetcode 17/100
 
@@ -54,6 +53,7 @@ GraphQL
 Протоколы
 TCP/IP
 WebSockets
+AMQ
 
 ## Разработка (Python, C/C++)
 SOLID
@@ -61,8 +61,6 @@ KISS
 DRY
 YAGNI
 ООП
-Паттерны
-Конецпции
 GC
 GIL
 
@@ -90,10 +88,10 @@ MongoDB
 
 ## English
 italki
-учить слова по темам
+English grammar in use
 
 ## Design System
-
+Чиста Архитектура Мартин
 
 ## Тестировнаие
 Интеграционное
